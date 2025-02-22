@@ -1,8 +1,8 @@
 🎵 Musician & Technologist 🛠️
 
-As a musician and technologist with a deep interest in both analog electronics and artificial intelligence, I currently lead software development at Diktatorial Suite, where we build AI-powered tools for musicians. I'm committed to exploring new technologies while furthering my journey as an artist. 
+As a self-taught coder, musician, and technologist with a deep interest in both analog electronics and artificial intelligence, I previously served as the CTO of Diktatorial Suite, where we built AI-powered tools for musicians. I'm committed to exploring new technologies while furthering my journey as an artist.
 
-If you're interested in discussing music technology, AI in audio tech, or any collaborative opportunities, please feel free to reach out to me! 🤘
+If you're interested in discussing music technology, AI in audio tech, or any collaborative opportunities, feel free to reach out! 🤘
 
 📧 Contact:
-selin@diktatorial.com
+info@cestlin.co
